@@ -14,6 +14,6 @@ Steps:
 
 5. Additional Options: Depending on your use case, you may want to explore more advanced features of the qrcode library, such as adding a logo to the QR code or creating QR codes for different data types.
 
-# eg:
+# eg:My LinkedIn page
 
 ![LinkedIn](https://github.com/Hareesh061/QR_code_creation/assets/90563881/57928805-802a-4045-965d-721c9885f9d4)
